@@ -8,7 +8,7 @@ DOI: 10.1109/TGRS.2023.3334562
 vol. 61, pp. 1-16, 2023.
 ```
 
-![DCAENet](https://github.com/WuZhaoyue/DCAE/blob/main/Flowchart%20of%20DCAE/Fig-DCAE.pdf)
+![The flowchart of the DCAE](https://github.com/WuZhaoyue/DCAE/blob/main/Flowchart%20of%20DCAE/Fig-DCAE.pdf)
 
 
 ### Run code
